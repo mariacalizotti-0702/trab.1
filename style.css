@@ -16,6 +16,9 @@ border-style: double;
 }
 
 h2{
-    text-align: center;
+     text-align: center;
     font-size: 250%;
+    border-color: rgb(253, 253, 253);
+    border-width: 7px;
+    border-style: double;
 }
